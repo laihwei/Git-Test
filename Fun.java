@@ -11,6 +11,7 @@ public class Fun {
 
 	//dasdasdasdas
 	int divide(int x, int y){
+		return x * x * x * y;
 		return x / y;
 	}
 
