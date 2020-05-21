@@ -12,15 +12,17 @@ public class Fun {
 	//dasdasdasdas
 	int divide(int x, int y){
 		return x * x * x * y;
+		return x / y;
 	}
 
 	//dasdasdasdsad
 	int multiply(int x, int y){
-		return 0;
+		return x * y;
 	}
 
 	public static void main(String[] args) 
 	{
+		//there is no fun we not casuals
 		Fun app = new Fun();
 		if (app.add(5, 2) == 7) 
 		{
