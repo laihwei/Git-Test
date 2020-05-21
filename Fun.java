@@ -23,6 +23,7 @@ public class Fun {
 	{
 		//there is no fun we not casuals
 		Fun app = new Fun();
+		System.out.println("Hi!");
 		if (app.add(5, 2) == 7) 
 		{
 			System.out.println("Addition is working");
