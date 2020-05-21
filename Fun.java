@@ -2,16 +2,16 @@ public class Fun {
 	
 	//dsadasd
 	int add(int x, int y){
-		return 0;
+		return x + y;
 	}
 
 	int subtract(int x, int y){
-		return 0;
+		return x - y;
 	}
 
 	//dasdasdasdas
 	int divide(int x, int y){
-		return 0;
+		return x * x * x * y;
 	}
 
 	//dasdasdasdsad
