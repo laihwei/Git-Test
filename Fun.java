@@ -1,6 +1,5 @@
 public class Fun {
 	
-	//dsadasd
 	int add(int x, int y){
 		return x + y;
 	}
@@ -9,13 +8,10 @@ public class Fun {
 		return x - y;
 	}
 
-	//dasdasdasdas
 	int divide(int x, int y){
-		return x * x * x * y;
 		return x / y;
 	}
 
-	//dasdasdasdsad
 	int multiply(int x, int y){
 		return x * y;
 	}
